@@ -1,31 +1,62 @@
-# Welcome to My Dev Space! :wave:
+# 👋 Hi, I'm Joey  
 
-Hello there, fellow coder! :computer: I'm a polyglot programmer fluent in Python :snake:, JavaScript :yellow_heart:, R :bar_chart:, SQL: 💾 and React.js :atom_symbol:. Here's where I build, break, and fix stuff - sometimes all at once.
+### 🧑‍💻 Software Engineer | AI Application Engineer | Full-Stack Developer  
 
-## About Me :man_technologist:
-Coding's my interest—I'm all about writing clean, effective code with a dash of style. When I'm not in the zone with code, I'm either tackling machine learning/deep learning puzzles or playing around with the latest in website tech.
+I specialize in **integrating Large Language Models (LLMs)** 🧠 to optimize workflows and enhance productivity.  
+I thrive on building solutions that merge **AI-driven innovation** with **robust engineering practices**.  
 
-- 📊 **Data Enthusiast**: I love turning numbers into graphs.
-- 🖥️ **Full-Stack Developer**: From back to front, I make sure everything functions seamlessly.
-- 🎨 **Creative Coder**: I believe in code that not only works but is also a joy to read.
+---
 
-## Featured Projects :star2:
-> Those are some of my projects~~
+## 🚀 Tech Stack  
 
-- `geo_thesis_GMPE`: Digging deep into seismology analytics with Python!
-- `eFlatfile`: Building a pipeline to integrate the website of the Central Weather Administration to establish an automated database.
-- `AIOT_dorm`: Revolutionizing dorm life with a smart IoT and JavaScript solution.
-- `Mask-identification`: Utilizing machine learning with Jupyter Notebooks to identify our faces.
-- `my-profile`: Crafting my personal brand with react.js.
-- `jc_django_website`:  A start-up company website, connected with Google Maps API using Django and a touch of CSS creativity.
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=fff)
+![LangChain](https://img.shields.io/badge/LangChain-00B300?logo=chainlink&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=fff)
+![Restify](https://img.shields.io/badge/Restify-339933?logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=fff)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=fff)
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=fff)
+![CosmosDB](https://img.shields.io/badge/-CosmosDB-BAE3FF?logo=azurecosmosdb&logoColor=000)
 
-## Let's Connect :handshake:
-Whether it's a project collaboration or just a chat about tech, I'm all ears. You can reach me through the following channels:
+---
 
-- 📧 Email: [t1616joey1@gmail.com](mailto:your-email@example.com)
-- 👤 Facebook: [張智宇](https://www.facebook.com/profile.php?id=100003916017459)
-- 🏢 LinkedIn: [Chih-Yu Chang(Joey)](https://www.linkedin.com/in/chih-yu-chang-21aa32267/)
-- 🌐 Personal Website: https://badguy361.github.io/my-profile/
+## 💼 Experience  
 
-I'm always open to interesting conversations and new opportunities.
+### **Advantech – AI Application Engineer**  
+- 🤖 Built an AI-powered Microsoft Teams Bot for Supply Chain Management, deployed on Azure Web App.
+- ☁️ Designed and maintained cloud-native architecture on Azure, integrating VNet, Web Service, Azure function, ACA, and Cosmos DB for secure data access.
+- 📊 Developed an AI agent flow for automated data extraction and analysis.
+- 🔒 Engineered a secure backend API that connected SAP systems with OpenAI via Azure services.
+
+### **National Central University Library – Full Stack Engineer**  
+- ⚡ Enhanced & optimized web systems with **PHP + MariaDB + Apache**.  
+- 🌐 Managed web servers & databases to ensure stability & integrity.  
+
+### **Brilltek – Backend Intern**  
+- 🔔 Developed a **Discord bot** for proactive system monitoring alerts.  
+
+### **Cian Yu Earthquake Disaster & Risk Evaluation Consultant Ltd – DevOps & Frontend Engineer**  
+- 🌎 Led the development of an **earthquake hazard assessment website**.  
+
+---
+
+## ✨ Fun Facts  
+- ⚡ Love exploring **AI x DevOps integration**.  
+- 📖 Continuous learner of **new architectures & automation tools**.  
+- 🎮 Sometimes hack things together just for fun.  
+
+---
+
+## 🤝 Let's Connect  
+
+[![Email](https://img.shields.io/badge/Email-t1616joey1%40gmail.com-red?logo=gmail&logoColor=white)](mailto:t1616joey1@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chih--Yu%20Chang-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chih-yu-chang-21aa32267/)  
+[![Facebook](https://img.shields.io/badge/Facebook-張智宇-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100003916017459)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-My%20Website-000?logo=githubpages&logoColor=white)](https://badguy361.github.io/my-profile/)  
+
+---
+
 ![badguy361's github activity graph](https://raw.githubusercontent.com/badguy361/badguy361/output/github-contribution-grid-snake.svg)
